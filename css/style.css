@@ -1,0 +1,150 @@
+/* Style page content */
+html{
+	background-color: #D9EEE1;
+}
+
+/* FONTS */
+@font-face {
+  font-family: arial;
+  src: url(../fonts/arial.woff);
+}
+@font-face {
+  font-family: carmelio;
+  src: url(../fonts/carmelio.ttf);
+}
+@font-face {
+  font-family: peachfarm;
+  src: url(../fonts/peach_farm.otf);
+}
+@font-face {
+  font-family: remindhim;
+  src: url(../fonts/remind-him.ttf);
+}
+@font-face {
+  font-family: spaceally;
+  src: url(../fonts/spaceally.ttf);
+}
+/* Tag Styling */
+block{
+	background-color:#FDAAC8;
+	color:#DC143C;
+}
+code{
+	background-color:#FDAAC8;
+	color:#DC143C;
+}
+ul{
+	line-height:1.5;
+}
+h1{
+	font-family: peachfarm;
+	font-size: 4vw;
+}
+/* Class Styling */
+.container{
+	padding: 10px;
+	margin:20px;
+}
+.output{
+	margin:10px;
+	padding:10px;
+	border:2px solid black;
+	background-color:slade-green;
+}
+
+
+.tab1 table{
+	width:100%;
+}
+.tab2, .tab2 td, .tab2 th{
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+}
+.mtab{
+	border-collapse: collapse;
+	border: 5px solid #282A35;
+	background-color: white;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+}
+.mtab td, .mtab th{
+	padding: 10px;
+	border: 1px solid black;
+}
+.mtab tr:nth-child(even) {
+	background-color: #E3F3FF;
+}
+.main {
+	margin-left: 250px; /* Same as the width of the sidebar */
+	
+}
+.note{
+	background-color:#FFFFCC;
+	padding:10px;
+	margin:10px;
+}
+.pager{
+	text-align:center;
+	font-weight:bold;
+	font-size:2vw;
+	border:3px solid #99C67D;
+	border-radius:10px;
+	background-color:#C3DF9C;
+	color:white;
+	box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+.egtxt{
+	border-radius:10px;
+	padding: 30px;
+	background-color: #282A35;
+	color: white;
+	margin: 10px;	
+}
+.example{
+	padding:10px;
+	border:2px solid #99C67D;
+	background-color:#C3DF9C;
+	color: black;
+}
+.example1{
+	margin:10px;
+	padding:10px;
+	border:2px solid black;
+	border-radius:10px;
+	background-color:white;
+}
+.example table{
+	background-color:white;
+}
+.colorbox{
+	display:flex;
+}
+.box1{
+	margin:10px;
+	padding:10px;
+	color:white;
+	text-align:center;
+}
+.box2{
+	width:100%;
+	padding:5px;
+}
+.box3{
+	color:white;
+	text-align:center;
+}
+.btn1{
+	background-color:red;
+	color:white;
+	padding:20px;
+	line-height:3;
+}
+.row{
+	display:flex;
+	margin:0 auto;
+}
+.w3{
+	width:300px;
+}
