@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Carmelio";
+  src: url("carmelio.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PeachFarm";
+  src: url("peach_farm.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "RemindHim";
+  src: url("remind-him.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SpaceAlly";
+  src: url("spaceally.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Chewy";
+  src: url("chewy-regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Comic Mono";
+  src: url("./ComicMono/ComicMono.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Comic Mono Bold";
+  src: url("./ComicMono/ComicMono-Bold.ttf") format("truetype");
+}
