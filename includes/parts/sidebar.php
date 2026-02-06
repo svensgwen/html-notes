@@ -8,7 +8,7 @@
 	<a target="_top" href="basics.php">HTML Basic</a>
 	<a target="_top" href="elements.php">HTML Elements</a>
 	<a target="_top" href="attributes.php">HTML Attributes</a>
-	<a target="_top" href="html_headings.html">HTML Headings</a>
+	<a target="_top" href="headings.php">HTML Headings</a>
 	<a target="_top" href="html_paragraphs.html">HTML Paragraphs</a>
 	<a target="_top" href="html_styles.html">HTML Styles</a>
 	<a target="_top" href="html_formatting.html">HTML Formatting</a>
