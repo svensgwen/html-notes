@@ -20,9 +20,11 @@
 				<img src="assets/img/dev-laptop.webp" class="img-fluid">
 			</div>
 			<div class="col-9">
-				<p>HTML is the standard markup language for Web pages.</p>
-				<p>With HTML you can create your own Website.</p>
-				<p>HTML is easy to learn - You will enjoy it!</p>
+				<div class="centerify">
+					<p class="h5">HTML is the standard markup language for Web pages.</p>
+					<p class="h5">With HTML you can create your own Website.</p>
+					<p class="h5">HTML is easy to learn - You will enjoy it!</p>
+				</div>
 			</div>
 		</div>
 	</div>

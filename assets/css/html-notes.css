@@ -98,39 +98,39 @@ ul li {
 }
 
 
-h1 {
+h1, .h1{
   font-size: 3.6rem;
   font-family: "SpaceAlly";
   font-weight: 700;
 }
 
-h2 {
+h2, .h2{
   font-size: 3rem;
-  font-family: "PeachFarm";
+  font-family: "Delius";
   font-weight: 600;
 }
 
-h3 {
+h3, .h3{
   font-size: 2.4rem;
-  font-family: "PeachFarm";
+  font-family: "Delius";
   font-weight: 600;
 }
 
-h4 {
+h4, .h4 {
   font-size: 2rem;
-  font-family: "PeachFarm";
+  font-family: "Delius";
   font-weight: 500;
 }
 
-h5 {
+h5, .h5 {
   font-size: 1.6rem;
-  font-family: "PeachFarm";
+  font-family: "Delius";
   font-weight: 500;
 }
 
-h6 {
+h6, .h6 {
   font-size: 1.3rem;
-  font-family: "PeachFarm";
+  font-family: "Delius";
   font-weight: 500;
 }
 
@@ -152,6 +152,16 @@ hr {
   border: 0;
   border-top: 1px solid #ddd;
   margin: 1.5rem 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.centerify {
+  display: grid;
+  place-items: center;
 }
 
 
