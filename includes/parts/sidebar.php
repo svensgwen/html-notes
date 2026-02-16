@@ -11,11 +11,9 @@
 	<a target="_top" href="headings.php">HTML Headings</a>
 	<a target="_top" href="paragraphs.php">HTML Paragraphs</a>
 	<a target="_top" href="styles.php">HTML Styles</a>
-	<a target="_top" href="html_formatting.html">HTML Formatting</a>
-	<a target="_top" href="html_quotation_elements.html">HTML Quotations</a>
+	<a target="_top" href="formatting.php">HTML Formatting</a>
+	<a target="_top" href="quotation-elements.php">HTML Quotations</a>
 	<a target="_top" href="comments.php">HTML Comments</a>
-	<a target="_top" href="html_colors.html">HTML Colors</a>
-	<a target="_top" href="html_css.html">HTML CSS</a>
 	<a target="_top" href="html_links.html">HTML Links</a>
 	<a target="_top" href="html_images.html">HTML Images</a>
 	<a target="_top" href="html_tables.html">HTML Tables</a>

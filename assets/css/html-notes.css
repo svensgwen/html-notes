@@ -82,8 +82,14 @@ pre{
   margin: 0;
   padding: 10px;
 }
-
-code{
+code {
+  line-height: 2;
+  border-radius: 5px;
+  padding: 2px;
+  color: var(--subtext0);
+  background-color: var(--surface0);
+}
+code.language-html{
 	user-select: all;
 }
 
